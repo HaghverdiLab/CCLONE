@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-# from passenger.preprocess.import_sequence_context import get_variant_as_matrix, is_non_zero_file
 from scipy.io import mmread
 import os
 
